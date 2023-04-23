@@ -1,6 +1,7 @@
 ### <i> Olá, tudo bom</i>? :relieved:
 
 Eu sou <b>Jeferson Santos, Desenvolvedor Frontend</b>. Em constante aprendizado e buscando sempre evoluir meus conhecimentos. Minha <b>meta</b> é dar <b>orgulho</b> para minha <b>mãe</b> e ter uma profissão!
+<br>
 Atualmente desenvolvendo projetos com as seguintes <b>tecnologias</b>:
 <br>
 <br>
