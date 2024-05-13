@@ -14,6 +14,8 @@ Atualmente desenvolvendo projetos com as seguintes <b>tecnologias</b>:
 <br>
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 <br>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<br>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <br>
 <br>
