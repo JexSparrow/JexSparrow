@@ -37,11 +37,9 @@ Atualmente desenvolvendo projetos com as seguintes <b>tecnologias</b>:
 <a href="https://www.twitch.tv/jexsparrow">
 <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
 </a>
+<br>
+<br>
 
+![Jeferson's stats](https://github-readme-stats.vercel.app/api?username=JexSparrow&show_icons=true&theme=transparent)
 <br>
-<br>
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JexSparrow&show_icons=true&theme=transparent)
-<br>
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JexSparrow)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JexSparrow&layout=compact)
