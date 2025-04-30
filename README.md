@@ -18,6 +18,7 @@ Atualmente desenvolvendo projetos com as seguintes <b>tecnologias</b>:
 <br>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <br>
+<img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
 <br>
 <br>
 <b><i>Redes Sociais</b></i> :mailbox_with_mail:
